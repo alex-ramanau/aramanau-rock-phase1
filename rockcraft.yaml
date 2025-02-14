@@ -1,6 +1,6 @@
 # Metadata section
 
-name: aramanau-rock-phase1-v2
+name: aramanau-rock-phase1-v3
 summary: Hello World for phase1
 description: The basic example of a rock for SD phase1.
 version: "latest"
@@ -17,5 +17,4 @@ parts:
   hello:
     plugin: nil
     stage-packages:
-      - hello
       - hello
