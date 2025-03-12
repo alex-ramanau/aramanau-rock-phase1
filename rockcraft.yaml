@@ -1,8 +1,8 @@
 # Metadata section
 
-name: aramanau-rock-phase1-v3
-summary: Hello World for phase1
-description: The basic example of a rock for SD phase1.
+name: aramanau-rock-phase2
+summary: Hello World for phase2
+description: The basic example of a rock for SD phase2.
 version: "latest"
 license: Apache-2.0
 
