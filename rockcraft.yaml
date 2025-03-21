@@ -18,3 +18,4 @@ parts:
     plugin: nil
     stage-packages:
       - hello
+      - hello
